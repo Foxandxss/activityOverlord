@@ -8,7 +8,7 @@ Some of the changes are:
 
 * On the project creation, there is no need to use `--linker` because now `/assets` serves the same purpose.
 * Now the mongo setup goes on `config/connections.js` and `config/models.js`.
-* The videos about `config/controllers.js` is now done in `config/blueprints.js`.
+* The videos about `config/controllers.js` are now done in `config/blueprints.js`.
 * I imported `custom.less` on an already created `importer.less`.
 * What was done on the gruntfile, now is done on `tasks/pipeline.js`
 * The client-side `app.js` got some major changes.
